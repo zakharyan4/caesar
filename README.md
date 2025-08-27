@@ -19,7 +19,7 @@ Clone the repository:
 git clone https://github.com/zakharyan4/caesar
 cd caesar
 ```
-Install dependenncies:
+Install dependencies:
 ```bash
 pip install -r requirenments.txt
 ```
