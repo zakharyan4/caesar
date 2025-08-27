@@ -16,7 +16,7 @@ Supports **known-key decryption** and **brute-force attacks** to reveal hidden m
 
 Clone the repository:
 ```bash
-git clone https://github.com/zakharyan4/caesar
+git clone https://github.com/zakharyan4/caesar.git
 cd caesar
 ```
 Install dependencies:
